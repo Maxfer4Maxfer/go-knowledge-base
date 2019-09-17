@@ -1,3 +1,6 @@
+# Go talks
+[Check out a page with slides from amasing go talks](https://github.com/Maxfer4Maxfer/goLinks/tree/master/videos)
+
 # Architecture
 * [Microservices in Golang. Ewan Valentine's 10 parts series.](https://ewanvalentine.io/microservices-in-golang-part-1/)
 * [Microservices in Golang. Eric Lupander's 15 parts series.](https://callistaenterprise.se/blogg/teknik/2017/02/17/go-blog-series-part1/)
@@ -25,10 +28,10 @@
 * [Go Memory Managment. Povilas's 3 parts series.](https://povilasv.me/go-memory-management/)
 * [A visual guide to Go Memory Allocator from scratch (Golang)](https://blog.learngoprogramming.com/a-visual-guide-to-golang-memory-allocator-from-ground-up-e132258453ed)
 
-#gRPC
+# gRPC
 * [gRPC Go: Beyond the basics](https://blog.gopheracademy.com/advent-2017/go-grpc-beyond-basics/)
 
-#HTTP2
+# HTTP2
 * [ntroduction to HTTP/2](https://developers.google.com/web/fundamentals/performance/http2/)
 
 # Book 
