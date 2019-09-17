@@ -1,5 +1,5 @@
 # Go talks
-[Check out a page with slides from amasing go talks](https://github.com/Maxfer4Maxfer/goLinks/tree/master/videos)
+[Check out a page with slides from amazing go talks](https://github.com/Maxfer4Maxfer/goLinks/tree/master/videos)
 
 # Architecture
 * [Microservices in Golang. Ewan Valentine's 10 parts series.](https://ewanvalentine.io/microservices-in-golang-part-1/)
