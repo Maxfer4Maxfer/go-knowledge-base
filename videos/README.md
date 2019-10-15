@@ -9,6 +9,8 @@
 1. [GopherCon 2019: Johan Brandhorst - Get Going with WebAssembly](#8)   
 1. [GopherCon Europe 2019: Hungai Kevin Amuhinda - Distributed Tracing](#9)   
 1. [GopherCon 2019: Jason Keene - Dynamically Instrumenting Go Programs](#10)   
+1. [Continuous Integration/Continuous Delivery for Microservices: Rule them all | Nir Koren](#11)   
+1. [GopherCon 2019 Lightning Talk: Kenigbolo Meya Stephen - Continuous Documentation](#12)   
 
 
 <a name="1"></a>
@@ -169,3 +171,21 @@
 ![](images/001017.png)
 ![](images/001018.png)
 ![](images/001019.png)
+
+
+<a name="11"></a>
+
+11. [Continuous Integration/Continuous Delivery for Microservices: Rule them all | Nir Koren] (https://www.youtube.com/watch?v=Qm4uDFPCyiY)
+![](images/001101.png)
+![](images/001102.png)
+![](images/001103.png)
+![](images/001104.png)
+
+
+<a name="12"></a>
+
+12. [GopherCon 2019 Lightning Talk: Kenigbolo Meya Stephen - Continuous Documentation] (https://www.youtube.com/watch?v=aJgmPCBEtbs)
+![](images/001201.png)
+![](images/001202.png)
+![](images/001203.png)
+![](images/001204.png)
